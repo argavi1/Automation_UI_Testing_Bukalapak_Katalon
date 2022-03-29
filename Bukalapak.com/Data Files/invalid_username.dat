@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>invalid_username</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator>COMMA</csvSeperator>
+   <dataFileGUID>01970245-67e5-4ee3-90ed-9993bf79cd57</dataFileGUID>
+   <dataSourceUrl>C:\Users\USER\Desktop\Invalid username.csv</dataSourceUrl>
+   <driver>CSV</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

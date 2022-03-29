@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>logoutHyperLinkText</name>
+   <tag></tag>
+   <elementGuidId>f744ceab-92a1-4db3-8626-7e69ce47bd84</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='vm__white-header-dweb']/section/header/div[3]/div/div/div[2]/div/span[6]/div/div[2]/div/div/div/div/ul[2]/li[6]/a/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bl-list-item__title</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            Logout
+          </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vm__white-header-dweb&quot;)/section[@class=&quot;bl-section sigil-header&quot;]/header[@class=&quot;c-header-v2&quot;]/div[@class=&quot;sigil-header__main-nav-bar&quot;]/div[@class=&quot;bl-container&quot;]/div[@class=&quot;bl-flex-container justify-space-between align-items-center&quot;]/div[@class=&quot;bl-flex-item&quot;]/div[@class=&quot;bl-flex-container align-items-center&quot;]/span[@class=&quot;sigil-header__nav&quot;]/div[@class=&quot;bl-popover bl-popover--right bl-popover--active&quot;]/div[@class=&quot;bl-popover__outer&quot;]/div[@class=&quot;bl-popover__inner&quot;]/div[1]/div[1]/div[1]/ul[@class=&quot;bl-list mt-8&quot;]/li[@class=&quot;bl-list-item has-hover&quot;]/a[@class=&quot;bl-list-item__wrapper&quot;]/div[@class=&quot;bl-flex-container align-items-center&quot;]/div[@class=&quot;bl-list-item__title&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='vm__white-header-dweb']/section/header/div[3]/div/div/div[2]/div/span[6]/div/div[2]/div/div/div/div/ul[2]/li[6]/a/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='argavi'])[1]/following::div[12]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat semua pembelian'])[1]/following::div[31]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Semua'])[1]/preceding::div[67]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Semua'])[2]/preceding::div[130]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[2]/li[6]/a/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+            Logout
+          ' or . = '
+            Logout
+          ')]</value>
+   </webElementXpaths>
+</WebElementEntity>
